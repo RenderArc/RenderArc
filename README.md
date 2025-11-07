@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![README](https://i.imgur.com/jYRX8UF.png)
 <!--
 **RenderArc/RenderArc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
